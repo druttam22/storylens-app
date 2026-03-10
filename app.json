@@ -30,7 +30,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "npm install --global eas-cli && npx create-expo-app storylens && cd storylens && eas init --id 89551fc2-1e8d-4b8b-9222-d6781697ff7a"
       }
     }
   }
